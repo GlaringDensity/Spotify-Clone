@@ -18,8 +18,8 @@ Welcome to my Spotify Clone! 🎶 This is a simple replica of the Spotify web pl
 
 The project consists of the following files:
 
-- `index.html` - The main HTML file containing the structure of the Spotify Clone.
-- `styles.css` - The CSS file that styles the HTML and brings the design to life.
+- `Spotify1.html` - The main HTML file containing the structure of the Spotify Clone.
+- `Spotify2.css` - The CSS file that styles the HTML and brings the design to life.
 
 ## 🛠️ Technologies Used
 
