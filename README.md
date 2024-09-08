@@ -1,8 +1,10 @@
 # 🎵 Spotify Clone
 
 Welcome to my Spotify Clone! 🎶 This is a simple replica of the Spotify web player, created using only HTML and CSS. It’s a front-end project that showcases my skills in web design and styling, with a focus on creating a visually appealing and responsive layout.
+<br> <br>
 
 ![Project Screenshot](https://github.com/GlaringDensity/Spotify-Clone/blob/main/Spotify%20clone/Assets/spotify1.jpg)  
+<br> <br>
 ![Project Screenshot](https://github.com/GlaringDensity/Spotify-Clone/blob/main/Spotify%20clone/Assets/spotify2.png)
 
 ## 🚀 Features
