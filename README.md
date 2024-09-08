@@ -2,7 +2,7 @@
 
 Welcome to my Spotify Clone! 🎶 This is a simple replica of the Spotify web player, created using only HTML and CSS. It’s a front-end project that showcases my skills in web design and styling, with a focus on creating a visually appealing and responsive layout.
 
-![Project Screenshot](link-to-your-screenshot) <!-- Add a link to a screenshot of your project -->
+![Project Screenshot](Spotify clone/Assets/spotify1.jpg) <!-- Add a link to a screenshot of your project -->
 
 ## 🚀 Features
 
